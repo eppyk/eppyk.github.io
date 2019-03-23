@@ -1,4 +1,4 @@
----
+l---
 layout: page
 title: Reading List
 permalink: /readinglist/
@@ -12,9 +12,3 @@ order: 2
 [ZeroSec blog](https://blog.zsec.uk/) by [Andy Gill](https://twitter.com/ZephrFish)
 
 [Lloyd Labs](https://lloydlabs.github.io/) by [Lloyd](https://twitter.com/LloydLabs)
-
-
-
- 🇵🇱
-
- [Niebezpiecznik](https://niebezpiecznik.pl/)
