@@ -2,7 +2,7 @@
 layout: default
 title: Dissertation
 permalink: /dissertation/
-exclude: true
+order: 0
 ---
 <h2><b> Bibliography </b></h2>
 <h3><b>~ available online: </b> </h3>
