@@ -17,7 +17,7 @@ October is slowly fading away and with it any last rays of sunshine in Scotland,
 
 I've completed a 10-week internship at [Zonefox](https://www.zonefox.com/), an endpoint monitoring, insider threat mitigation software company. It was an intense time filled with all kinds of work from front end development to AWS traffic monitoring. It's been amazing to see all the inner workings of a medium-sized company, the workflow and internal structures, all of the things I have never had the opportunity to experience before as my only cyber security related work experience was a scientific research internship at my university the summer before.
 
-[caption id="attachment_588" align="aligncenter" width="225"]![IMG_2222](https://kieczkowska.files.wordpress.com/2018/10/img_2222.jpg?w=225) Morning coffee views from Zonefox HQ[/caption]
+->![IMG_2222](https://kieczkowska.files.wordpress.com/2018/10/img_2222.jpg?w=225) Morning coffee views from Zonefox HQ<-
 
 As I recently learned, I got nominated for the [Best Cyber Talent in Scottish Cyber Awards ](https://www.scottishcyberawards.co.uk/apply/best-new-cyber-talent/)for my work at Zonefox which I'm incredibly grateful for. I can't wait for to see the team again for a fancy dinner at the awards gala in a couple of weeks.
 
@@ -41,7 +41,7 @@ After completing an online quiz based on a digital forensic analysis to be compl
 #### EMF Camp 2018
 
 
-[caption id="attachment_591" align="aligncenter" width="397"]![8d98c59f-71a4-4302-953f-e9994e2deec4](https://kieczkowska.files.wordpress.com/2018/10/8d98c59f-71a4-4302-953f-e9994e2deec4.jpg?w=300) The inclusive magic of EMF[/caption]
+[8d98c59f-71a4-4302-953f-e9994e2deec4](https://kieczkowska.files.wordpress.com/2018/10/8d98c59f-71a4-4302-953f-e9994e2deec4.jpg?w=300) The inclusive magic of EM
 
 Not strictly connected to anything else I'm doing in my tech life, but I was lucky enough to get to go to EMF Camp this year - a magical biennial jamboree, bringing together makers, hackers and all kinds of artsy and techy people from all over the UK and Europe. Just take a look...
 
@@ -61,7 +61,7 @@ With the beginning of a new academic year, my honours project work has commenced
 #### Edinburgh International Science Festival in 🇦🇪
 
 
-[caption id="attachment_593" align="aligncenter" width="383"]![Screen Shot 2018-10-21 at 22.17.47](https://kieczkowska.files.wordpress.com/2018/10/screen-shot-2018-10-21-at-22-17-47.png?w=300) Team photo at the CyberQuest venue[/caption]
+[Screen Shot 2018-10-21 at 22.17.47](https://kieczkowska.files.wordpress.com/2018/10/screen-shot-2018-10-21-at-22-17-47.png?w=300) Team photo at the CyberQuest venue
 
 For the second time this year, at the beginning of October I travelled to the UAE to deliver workshops for the Edinburgh International Science Festival in Dubai. This time I had the chance to do artificial intelligence, blockchain and car hacking, which, I have to say,  these aren't topics I have much to do with on a daily basis. That's why it was a great experience to get to learn more about them first and then share the knowledge with the public in such a different setting than usual - sunny Dubai.
 
