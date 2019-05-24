@@ -5,7 +5,7 @@ date: 2015-06-10 18:22:35+00:00
 layout: post
 link: https://kieczkowska.wordpress.com/2015/06/10/cto-chief-technical-officer/
 slug: cto-chief-technical-officer
-title: Techie Interview: CTO (Chief Technical Officer)
+title: Techie Interview - CTO (Chief Technical Officer)
 wordpress_id: 6
 categories: interviews
 tags:
