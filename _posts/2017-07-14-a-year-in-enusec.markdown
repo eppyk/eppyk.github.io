@@ -37,7 +37,7 @@ We spent countless hours messing around in C27...
 <img src="https://kieczkowska.files.wordpress.com/2017/07/a5-1.jpg">
 
 <img src="https://kieczkowska.files.wordpress.com/2017/07/a2.jpg">
-You can check out our ex President's post about this event <a href="https://stmerry.org/posts/enusec-le-tour-du-hack-2017">here</a> as well as my little write up of one of the CTF challenges - <a href="https://kieczkowska.wordpress.com/2017/04/12/426/">here</a>.
+You can check out our ex President's post about this event <a href="https://stmerry.org/posts/enusec-le-tour-du-hack-2017">here</a> as well as my little write up of one of the CTF challenges - <a href="https://kieczkowska.works/2017/04/12/426.html">here</a>.
 
 [Sigint](https://twitter.com/siginthq)'s CTFs
 <img src="https://kieczkowska.files.wordpress.com/2017/07/7.jpg">
