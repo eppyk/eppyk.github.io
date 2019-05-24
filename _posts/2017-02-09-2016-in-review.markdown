@@ -1,0 +1,138 @@
+---
+author: kieczkowska
+comments: true
+date: 2017-02-09 12:15:07+00:00
+layout: post
+link: https://kieczkowska.wordpress.com/2017/02/09/2016-in-review/
+slug: 2016-in-review
+title: 2016 in review
+wordpress_id: 356
+---
+
+2016 was an intense year, and the work and projects keep rolling - a best example of this is the fact that I publish a review of 2016 two months into 2017 :) 
+
+
+
+
+
+### 
+
+
+
+
+## ENUSEC
+
+
+
+
+A part of my work as a Student Ambassador at my university is supporting various types of events like job fairs and academic conferences. In March 2016 I assisted at the Cyber Camp, a two day cyber security event organised by [Cyber Academy](http://thecyberacademy.org/), and I got to know three wonderful guys, who happened to be the founders and members of [ENUSec](https://enusec.org/) - Edinburgh Napier University Security Society.
+
+
+
+
+
+
+
+
+
+
+So it went downhill from there: I started attending more and more of their events, in summer I became the Secretary of the society for 2016/2017, in September a good friend of mine moved to Edinburgh to study computer security & forensics and joined the society along with her gang of eager freshers. We had a number of amazing students from all over joining us as well and here we are today:
+
+
+
+
+
+
+
+[caption id="attachment_359" align="aligncenter" width="1062"]![screen-shot-2017-02-09-at-11-30-34](https://kieczkowska.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-11-30-34.png) watching 'Zero Days: Nuclear Cyber Sabotage[/caption]
+
+
+### 
+
+
+
+
+## CONFidence 2017
+
+
+
+
+I wrote about CONFidence already, and the post can be found here: [click](https://kieczkowska.wordpress.com/2016/06/07/confidence-2016/).  9 months later I still love it and can’t wait to volunteer at the next edition, which will take place on the 18th & 19th May. Just so you know, the conference is accessible for English speakers, so if you only can, you should make plans to be in Krakow this May. [Click](http://2017.confidence.org.pl/) for more details!
+
+
+
+
+![13232994_987323088022325_1585517144814353948_n](https://kieczkowska.files.wordpress.com/2016/06/13232994_987323088022325_1585517144814353948_n.jpg)
+
+
+
+
+
+### 
+
+
+
+
+## PyCon US
+
+
+
+
+PyCon US, what a conference! As always, it was big, perfectly organised, inclusive, informative and fun. Is there anything more to be said? Just like last year it left me in awe of the tremendous amount of work of everyone involved. Great job, guys, and thanks for having me.
+
+
+
+
+![IMG_6892.JPG](https://kieczkowska.files.wordpress.com/2017/02/img_6892.jpg)
+
+
+
+
+
+### 
+
+
+
+
+## PyLadies at PyCon PL 
+
+
+[PyCon PL ](https://pl.pycon.org/2016/index_en.html)takes place in Ossa near Warsaw, and this year included me as one of their supporting organisers. I've never been before, and unfortunately I couldn't stay for the talks this year, but I did some sponsor acquisition for their [PyLadies](https://pl.pycon.org/pyladies/index_en.html) side event, as well as mentored at it. I believe the workshop was a success, we've had a group of very motivated women (it's not so easy to get to Ossa! ;)) who knew exactly what they wanted to get out of the workshops and used our mentors' knowledge and all the opportunities the conference offered in full. It's always a pleasure to spend time with people with such a drive.
+
+[caption id="attachment_415" align="aligncenter" width="3264"]![img_1513](https://kieczkowska.files.wordpress.com/2017/02/img_1513.jpg) Mentors' work is never over - tutorial improvements at 10pm[/caption]
+
+[caption id="attachment_416" align="aligncenter" width="3264"]![img_1531](https://kieczkowska.files.wordpress.com/2017/02/img_1531.jpg) work, work, work[/caption]
+
+
+### 
+
+
+
+
+## DjangoGirls
+
+
+
+
+This year I haven’t been involved in any [DjangoGirls](https://djangogirls.org/) events, which may seem a bit strange compared to last year, when it was my main occupation for a good couple of months. The reason behind is simple and not spectacular: I’ve started uni for real, no gap year anymore, and travelling so frequently unfortunately stopped being an option for me. That said, I want to highlight that I still love and support the idea behind DjangoGirls and hope it will grow even larger. Good luck DjangoGirls, I love you and I wouldn’t be where I am today and studying what I study if it wasn’t for you!
+
+
+
+
+PS.: You can support DjangoGirls by donating [here](https://djangogirls.org/donate/), buying some of their awesome merchandise [here](https://store.djangogirls.org/) or setting up a recurring donation on [Patreon](https://www.patreon.com/djangogirls).
+
+
+
+
+
+
+
+Thank you 2016, and here's to an even better 2017!
+
+
+
+
+![giphy](https://kieczkowska.files.wordpress.com/2017/02/giphy.gif)
+
+
+

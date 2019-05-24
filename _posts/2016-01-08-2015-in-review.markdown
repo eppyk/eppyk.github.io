@@ -1,0 +1,123 @@
+---
+author: kieczkowska
+comments: true
+date: 2016-01-08 01:15:12+00:00
+layout: post
+link: https://kieczkowska.wordpress.com/2016/01/08/2015-in-review/
+slug: 2015-in-review
+title: 2015 in review
+wordpress_id: 32
+categories:
+- miscellaneous
+post_format:
+- Aside
+---
+
+2015 was an important year. Many things happened, I learned a lot and if only 2016 will be as generous with experiences and beautiful moments, then I'm good.
+
+
+
+
+
+## Django Girls coaching
+
+
+
+
+I kicked the year off with a group of friends in a cabin in the mountains, wearing a long African gown and angel wings (starting the post with an uncomfortably unimportant personal detail - check). First thing I did in 2015 was moving from the Netherlands to Poland and then I almost immediately fell in a whirlwind of Django Girls events. The first was Django Girls Brno, organised next to DevConf CZ by some awesome folks (congrats and many many thanks, Mikey, Lenka and Petr!).
+
+
+[gallery ids="34,33" type="rectangular"]
+
+In March, Django Girls London took place. I already wrote about how awesome the workshop was [here](https://kieczkowska.wordpress.com/2015/03/24/djangogirls-london/).
+
+https://vimeo.com/139559758
+
+Later, in May, I travelled to Budapest for the second edition of Django Girls there. It was so cool to be back in that beautiful city to coach and meet the organisers again. This trip made me realize that Budapest is my favourite city in the whole world - can't wait to go there again.
+
+[caption id="attachment_50" align="aligncenter" width="597"]![Screen Shot 2016-01-05 at 11.35.23.png](https://kieczkowska.files.wordpress.com/2016/01/screen-shot-2016-01-05-at-11-35-23.png) photo taken from DG Budapest Flickr by facebook.com/MelindArt[/caption]
+
+
+## PyCon Montreal 2015
+
+
+Travelling to Montreal, Canada for PyCon US in April was my first intercontinental trip, which was pretty exciting. Never having to put up with a time difference of over 2 hours, the jet lag was bad, but the amount of goodness and coolness at PyCon had made up for this.
+
+First, there were Django Girls people, and there was a Django Girls workshop, of course. I remember most, if not all, of the organisers were not local which seems like a huge challenge for me. The event turned great though, and they made tumblr-like paper tablecloths with the coaches' and atendees' names on it.
+
+![Screen Shot 2016-01-08 at 01.07.59.png](https://kieczkowska.files.wordpress.com/2016/01/screen-shot-2016-01-08-at-01-07-59.png)
+
+Then there was a tumblr-like booth with balloons and lights. One day there was even a popcorn machine.
+
+[caption id="attachment_64" align="aligncenter" width="1024"]![zdjęcie (8)](https://kieczkowska.files.wordpress.com/2016/01/zdjecca8cie-8.jpg?w=1024) photo taken from DG Budapest Flickr by facebook.com/MelindArt[/caption]
+
+
+(I might have a slight tumblr-like tumblr obsession. Will try to stop now.)
+
+
+
+
+I spent hours there, talking to people about who we are and what we do. Such a refreshing experience when I was so caught up in the Django Girls universe I literally couldn't imagine someone not knowing about it.
+
+
+
+
+
+## PyWaw Summit 2015
+
+
+[caption id="attachment_109" align="aligncenter" width="960"]![zdjęcie](https://kieczkowska.files.wordpress.com/2016/01/zdjecca8cie.png) I'm the little person, second from the  right. (I saved this pic from Twitter a couple of months ago and I admit I have no idea who took it; if you're the author, please get in touch, I'd love to credit you!)[/caption]
+
+
+Looking back, the days spent at PyWaw Summit as a volunteer were one of the best periods of 2015. It wasn't easy - waking up at 6AM is always a killer - but it was the best. First of all, I started loving Warsaw. Being born and raised in Krakow (a city which is traditionally Warsaw's opponent, as it was the capital of the country before Warsaw), it was a new thing and something my Krakowian self had a hard time dealing with (please laugh, even a bit, I'm trying really hard here).
+
+
+
+
+At the conference, I was one of the people responsible for keeping the talks in their timeframe, so I had to be at all of them. Intensive, but so so worth it! Usually I would choose the ones fitting my interests and knowledge level best, but it was actually very eye-opening and I would recommend everyone to do this sometime - choose something you'd never think you'd be interested in, and do it.
+
+
+
+
+And one more advice - if you organise a conference, please please please do it in a theatre. That's actually quite a good general life advice: if you're doing something, it's always way cooler to have it in a theatre, if possible.
+
+
+
+
+
+## Publishing in [Model View Culture](https://modelviewculture.com/)
+
+
+
+
+So, while this may seem marginal to a lot of people, it was actually a big thing for me (and I'm sure my English teacher from high school would be proud, too). Inspired by some unpleasant stuff not worth mentioning here, I decided to gather all my thoughts wandering about the subject of the situation and that's how an idea for an article was born. And that's also how, encouraged by my dear friend Anna, I ended up writing for Model View Culture - and working with the amazing Shanley, which I'm very grateful for.
+
+
+
+
+You can read the article [here](https://modelviewculture.com/pieces/how-the-glorification-of-software-developers-compromises-tech-companies).
+
+
+
+
+
+## Django Girls Krakow
+
+
+[caption id="attachment_134" align="aligncenter" width="960"]![11952037_732634123528727_8192323533552205588_n](https://kieczkowska.files.wordpress.com/2016/01/11952037_732634123528727_8192323533552205588_n.jpg) Django Girls Krakow, 2nd edition. Photo by [Michal Baluka](https://www.facebook.com/Ba%C5%82uka-FX-1415633491982936/?fref=ts)[/caption]
+
+This particular event deserves special recognition in this review, because, <insert fanfares> I was the co-organiser of it!
+
+Oh my, was it a stressful time.
+
+Putting all the money matters and last minute disappearing coaches aside, the satisfaction from organising this event was tremendous. It was a splendid way to end my story with Django Girls, at least for 2015. We had so many wonderful attendees and I hope we helped them get passionate about coding. Hey, if any of you is reading this right now - ping me, would love to hear from you!
+
+
+## Moving abroad
+
+
+Lastly, just after Django Girls Krakow, I moved to Edinburgh, UK to start my studies in Computer Security. It's a bit soon to tell, but I feel it was a great decision. I enjoy all the things I get to study so far, except for the fact we have to use Java and C instead of Python (for now). But that will come, I hope, in 2016. :)
+
+
+
+Happy New Year!
