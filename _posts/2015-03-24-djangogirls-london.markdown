@@ -7,7 +7,7 @@ link: https://kieczkowska.wordpress.com/2015/03/24/djangogirls-london/
 slug: djangogirls-london
 title: DjangoGirls London
 wordpress_id: 9
-categories: djangogirls
+categories: djangogirls, events
 post_format:
 - Image
 tags:
