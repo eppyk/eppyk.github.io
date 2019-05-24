@@ -7,8 +7,7 @@ link: https://kieczkowska.wordpress.com/2015/03/26/reasons-why-your-djangogirls-
 slug: reasons-why-your-djangogirls-blog-isnt-working
 title: Reasons why your DjangoGirls blog isn’t working
 wordpress_id: 8
-categories:
-- miscellaneous
+categories: djangogirls
 tags:
 - coding
 - django
