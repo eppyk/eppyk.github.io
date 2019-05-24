@@ -27,41 +27,41 @@ We spent countless hours messing around in C27...
 
 ... went to a bunch of great events and conferences, such as:
 
-<p align="center">
+
 
 BlackHat
-<img src="https://kieczkowska.files.wordpress.com/2017/07/10.jpg" width="60%" height="60%"><br><br>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2017/07/10.jpg" width="60%" height="60%"></p><br><br>
 
 ScotSecure
-<img src="https://kieczkowska.files.wordpress.com/2017/07/6scsec.jpg" width="60%" height="60%"><br><br>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2017/07/6scsec.jpg" width="60%" height="60%"></p><br><br>
 
 Le Tour Du Hack
+<p align="center">
 <img src="https://kieczkowska.files.wordpress.com/2017/07/a5-1.jpg" width="60%" height="60%"><br>
 <img src="https://kieczkowska.files.wordpress.com/2017/07/a2.jpg" width="60%" height="60%"><br>
 You can check out our ex President's post about this event <a href="https://stmerry.org/posts/enusec-le-tour-du-hack-2017">here</a> as well as my little write up of one of the CTF challenges - <a href="https://kieczkowska.works/2017/04/12/426.html">here</a>.<br><br>
+  </p>
 
 Sigint's CTFs
-<img src="https://kieczkowska.files.wordpress.com/2017/07/7.jpg" width="60%" height="60%"><br>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2017/07/7.jpg" width="60%" height="60%"><br>
 
-<img src="https://kieczkowska.files.wordpress.com/2017/07/11.jpg" width="60%" height="60%"><br><br>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/11.jpg" width="60%" height="60%"><br><br></p>
 
 BSides Edinburgh
-<img src="https://kieczkowska.files.wordpress.com/2017/07/a1.jpg" width="60%" height="60%"><br>
-<img src="https://kieczkowska.files.wordpress.com/2017/07/5.jpg" width="60%" height="60%"><br><br>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2017/07/a1.jpg" width="60%" height="60%"><br>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/5.jpg" width="60%" height="60%"><br><br></p>
 
 CONFidence
-<img src="https://kieczkowska.files.wordpress.com/2017/07/19961263_1675610512450646_3518126590216503333_n.jpg" width="60%" height="60%"><br><br>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2017/07/19961263_1675610512450646_3518126590216503333_n.jpg" width="60%" height="60%"><br><br></p>
 
 Cyber Insight Camp by Cyber Challenge UK
-<img src="https://kieczkowska.files.wordpress.com/2017/07/3.jpg" width="60%" height="60%"><br><br>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2017/07/3.jpg" width="60%" height="60%"><br><br></p>
 
 SteelCon
-<img src="https://kieczkowska.files.wordpress.com/2017/07/a3-1.jpg" width="60%" height="60%"><br><br>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2017/07/a3-1.jpg" width="60%" height="60%"><br><br></p>
 
 2600 Edinburgh
-<img src="https://kieczkowska.files.wordpress.com/2017/07/1.jpg" width="60%" height="60%"><br><br>
-
-</p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2017/07/1.jpg" width="60%" height="60%"><br><br></p>
 
 As these are visibly tiring and no fun at all, we do other things for pleasure, such as...
 
