@@ -7,6 +7,7 @@ link: https://kieczkowska.wordpress.com/2015/07/01/founder/
 slug: founder
 title: Founder
 wordpress_id: 4
+categories: interviews
 tags:
 - coding
 - djangogirls
@@ -18,38 +19,35 @@ tags:
 - technology
 ---
 
-<blockquote>This week’s interview features Geoffrey Sechter, who awesomely describes himself on Twitter (@gsechter) as an “entreprenuer, strategist, community builder, developer, statistician and adventurer of all realms“. He’s also a member of the Django Girls Core Team.  
+##### This week’s interview features Geoffrey Sechter, who awesomely describes himself on Twitter (@gsechter) as an “entreprenuer, strategist, community builder, developer, statistician and adventurer of all realms“. He’s also a member of the Django Girls Core Team.  
 
-> 
-> </blockquote>
-
-## What’s your job title?
+#### What’s your job title?
 
 Founder of Lightstrike LLC
 
-##  What’s your company’s product?
+####  What’s your company’s product?
 
 Lightstrike provides entrepreneurial-focused product development services, including product discovery, project management, application design and software development.
 
-##  Why did you choose that position?
+####  Why did you choose that position?
 
 When I first started the company, I was looking for an avenue to generate revenue to support another startup I was working on. When the startup failed, I shifted Lightstrike’s focus to be about supporting my learning.
 
-## How does your ordinary work day look like?
+#### How does your ordinary work day look like?
 
 Lots of email, administrative tasks like reviewing contracts and financial expenses, meetings with amazing people, calls with clients and contractors, reading industry news, two-four hours of focused coding.  
 
 
-## Could you describe what it is that you do and how exactly does your work contribute to the development of the company’s product?
+#### Could you describe what it is that you do and how exactly does your work contribute to the development of the company’s product?
 
 I am the glue that keeps the whole enterprise going.
 
-## What skills and / or qualifications are usually required to do your job?
+#### What skills and / or qualifications are usually required to do your job?
 
 Grit, flexibility and drive. Having both entrepreneurial and intrapreneurial experience gives me a good experience base to relate to clients with, while having a full-stack web development skill set (using LNPP - Linux, nginx, PostgreSQL, Python/Django) allows me to deliver the product my clients need.  
 
 
-## Why did you choose that specific company to work for?
+#### Why did you choose that specific company to work for?
 
 Once I got a taste of the entrepreneurial lifestyle, I decided I wouldn’t work for someone else unless it was a truly special opportunity. No magical companies have made me an offer I can’t refuse yet. :)  
 
