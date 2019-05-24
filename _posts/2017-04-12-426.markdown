@@ -130,15 +130,15 @@ Aaaand done. Now you can pour yourself a glass of wine and watch Mr Robot feelin
 
 sources:
 
-    * [http://www.forensicsware.com/blog/e01-file-format.html](http://www.forensicsware.com/blog/e01-file-format.html)
+- [http://www.forensicsware.com/blog/e01-file-format.html](http://www.forensicsware.com/blog/e01-file-format.html)
 
-    * [https://www.sleuthkit.org/](https://www.sleuthkit.org/)
+- [https://www.sleuthkit.org/](https://www.sleuthkit.org/)
 
-    * [http://www.sleuthkit.org/sleuthkit/man](http://www.sleuthkit.org/sleuthkit/man)
+- [http://www.sleuthkit.org/sleuthkit/man](http://www.sleuthkit.org/sleuthkit/man)
 	
-    * [http://steghide.sourceforge.net/](http://steghide.sourceforge.net/)
+- [http://steghide.sourceforge.net/](http://steghide.sourceforge.net/)
 	
-    * [http://searchsecurity.techtarget.com/definition/steganography](http://searchsecurity.techtarget.com/definition/steganography)
+- [http://searchsecurity.techtarget.com/definition/steganography](http://searchsecurity.techtarget.com/definition/steganography)
 
 
 
