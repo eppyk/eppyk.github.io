@@ -23,7 +23,7 @@ As "angels" (volunteer helpers), we were encouraged to make the most of attendin
 
 Talks-wise, unsurprisingly the one that made the biggest impression on me was the "State of the Net" by [Mikko Hypponen](https://mikko.hypponen.com/). The talk was beginner-friendly and a great starting point to start exploring cyber security on an introductory level.
 
-<p align="center"><img src="https://kieczkowska.files.wordpress.com/2016/06/13267955_1269603093051392_952435656259229834_n.jpg"><br>Mikko Hypponen speaking, photo credits: [CONFidence](https://www.facebook.com/confidence.conference/?fref=ts)</p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2016/06/13267955_1269603093051392_952435656259229834_n.jpg"><br>Mikko Hypponen speaking, photo credits: <a href="https://www.facebook.com/confidence.conference/?fref=ts">CONFidence</a></p>
 
 First thing after the conference, I found and watched all Mikko's TED talks:
 
