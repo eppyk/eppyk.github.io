@@ -26,7 +26,7 @@ As I recently learned, I got nominated for the [Best Cyber Talent in Scottish Cy
 #### AWS Certified Cloud Practitioner
 
 
-<p align="center"><img src="https://kieczkowska.files.wordpress.com/2018/10/telerik-web-ui-webresource.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2018-08-14&ci=AWS00574728"></p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2018/10/telerik-web-ui-webresource.png"></p>
 
 Building on the knowledge I have acquired while working on AWS projects at Zonefox, I realised I covered the syllabus for the first AWS certification, so I didn't hesitate long and took the exam. This has left me with this beautiful shiny badge :)
 
