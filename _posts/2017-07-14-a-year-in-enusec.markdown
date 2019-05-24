@@ -17,11 +17,11 @@ Summer 2017 marks a whole year I’ve been part of the ENUSEC committee as Secre
 We spent countless hours messing around in C27...
 
 <p align="center">
-<img src="https://kieczkowska.files.wordpress.com/2017/07/a5.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a5.jpg" width="60%" height="60%"><br>
 
-<img src="https://kieczkowska.files.wordpress.com/2017/07/2.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/2.jpg" width="60%" height="60%"><br>
 
-<img src="https://kieczkowska.files.wordpress.com/2017/07/17796461_1152369874892194_8879828979283537105_n.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/17796461_1152369874892194_8879828979283537105_n.jpg" width="60%" height="60%"><br><br>
 
 </p>
 
@@ -30,37 +30,36 @@ We spent countless hours messing around in C27...
 <p align="center">
 
 BlackHat
-<img src="https://kieczkowska.files.wordpress.com/2017/07/10.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/10.jpg" width="60%" height="60%"><br><br>
 
 ScotSecure
-<img src="https://kieczkowska.files.wordpress.com/2017/07/6scsec.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/6scsec.jpg" width="60%" height="60%"><br><br>
 
 Le Tour Du Hack
-<img src="https://kieczkowska.files.wordpress.com/2017/07/a5-1.jpg" width="60%" height="60%">
-<img src="https://kieczkowska.files.wordpress.com/2017/07/a2.jpg" width="60%" height="60%">
-You can check out our ex President's post about this event <a href="https://stmerry.org/posts/enusec-le-tour-du-hack-2017">here</a> as well as my little write up of one of the CTF challenges - <a href="https://kieczkowska.works/2017/04/12/426.html">here</a>.
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a5-1.jpg" width="60%" height="60%"><br>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a2.jpg" width="60%" height="60%"><br>
+You can check out our ex President's post about this event <a href="https://stmerry.org/posts/enusec-le-tour-du-hack-2017">here</a> as well as my little write up of one of the CTF challenges - <a href="https://kieczkowska.works/2017/04/12/426.html">here</a>.<br><br>
 
 Sigint's CTFs
-<img src="https://kieczkowska.files.wordpress.com/2017/07/7.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/7.jpg" width="60%" height="60%"><br>
 
-<img src="https://kieczkowska.files.wordpress.com/2017/07/11.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/11.jpg" width="60%" height="60%"><br><br>
 
 BSides Edinburgh
-<img src="https://kieczkowska.files.wordpress.com/2017/07/a1.jpg" width="60%" height="60%">
-
-<img src="https://kieczkowska.files.wordpress.com/2017/07/5.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a1.jpg" width="60%" height="60%"><br>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/5.jpg" width="60%" height="60%"><br><br>
 
 CONFidence
-<img src="https://kieczkowska.files.wordpress.com/2017/07/19961263_1675610512450646_3518126590216503333_n.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/19961263_1675610512450646_3518126590216503333_n.jpg" width="60%" height="60%"><br><br>
 
 Cyber Insight Camp by Cyber Challenge UK
-<img src="https://kieczkowska.files.wordpress.com/2017/07/3.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/3.jpg" width="60%" height="60%"><br><br>
 
 SteelCon
-<img src="https://kieczkowska.files.wordpress.com/2017/07/a3-1.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a3-1.jpg" width="60%" height="60%"><br><br>
 
 2600 Edinburgh
-<img src="https://kieczkowska.files.wordpress.com/2017/07/1.jpg" width="60%" height="60%">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/1.jpg" width="60%" height="60%"><br><br>
 
 </p>
 
@@ -68,20 +67,20 @@ As these are visibly tiring and no fun at all, we do other things for pleasure, 
 
 ...climbing stuff...
 <p align="center">
-<img src="https://kieczkowska.files.wordpress.com/2017/07/4.jpg" width="60%" height="60%"> </p>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/4.jpg" width="60%" height="60%"> </p><br><br>
 
 ...escape rooms...
 <p align="center">
-<img src="https://kieczkowska.files.wordpress.com/2017/07/8.jpg" width="60%" height="60%"> </p>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/8.jpg" width="60%" height="60%"> </p><br><br>
 
 ...Christmas celebrations...
 
 <p align="center">
-<img src="https://kieczkowska.files.wordpress.com/2017/07/cys3fjqwqaant8d.jpg" width="60%" height="60%"></p>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/cys3fjqwqaant8d.jpg" width="60%" height="60%"></p><br><br>
 
 ...or just regular pub -ing :)
 <p align="center">
-<img src="https://kieczkowska.files.wordpress.com/2017/07/a8.jpg" width="60%" height="60%"></p>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a8.jpg" width="60%" height="60%"></p><br><br>
 
 We’ve got even more stuff in the oven for 2017/2018, which I will happily help make happen as the Vice President. Stay tuned on [Twitter,](http://twitter.com/_enusec_) [Facebook](https://www.facebook.com/enusec/) and [Instagram.](https://www.instagram.com/_enusec_/) Oh and [**join us**](https://www.joinit.co/join/JbiQtM5wLXDhdXpnX), of course!
 
