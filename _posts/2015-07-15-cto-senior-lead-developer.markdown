@@ -5,7 +5,7 @@ date: 2015-07-15 20:29:58+00:00
 layout: post
 link: https://kieczkowska.wordpress.com/2015/07/15/cto-senior-lead-developer/
 slug: cto-senior-lead-developer
-title: CTO / Senior & Lead Developer
+title: Techie Interview - CTO / Senior & Lead Developer
 wordpress_id: 3
 categories: interviews
 tags:
