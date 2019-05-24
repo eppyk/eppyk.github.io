@@ -13,21 +13,19 @@ categories:
 
 It was a nice spring evening in Edinburgh and I was casually exploring the Twitterverse looking for some inspiring computer security accounts (yes, that's how I pursue my interests), when I stumbled upon something that immediately felt too good to be true. A computer security conference (good). A computer security conference in my hometown, where I'm planning to spend the summer (good). A computer security conference which has a general knowledge track for people who are just getting into the field. And finally, a conference that's looking for "angels" who will help with all things organisation and tidying up afterwards in exchange for free entry (so so so good!).
 
-![friendstrifle-gif](https://kieczkowska.files.wordpress.com/2016/05/friendstrifle-gif.gif)
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2016/05/friendstrifle-gif.gif"></p>
 
 And they reduced ticket prices for women by 50% for Women's Day. Seriously, I freaking loved CONFidence at that point already.
 
-[caption id="attachment_284" align="aligncenter" width="474"]![13232994_987323088022325_1585517144814353948_n](https://kieczkowska.files.wordpress.com/2016/06/13232994_987323088022325_1585517144814353948_n.jpg?w=680) photo credits: Rafal "Aruan" Hencel, [ISSA Polska](https://www.facebook.com/media/set/?set=a.987322031355764.1073741841.291941654227142&type=3)[/caption]
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2016/06/13232994_987323088022325_1585517144814353948_n.jpg?w=680"><br>Photo credits: Rafal "Aruan" Hencel, [ISSA Polska](https://www.facebook.com/media/set/?set=a.987322031355764.1073741841.291941654227142&type=3)</p>
 
 As "angels" (volunteer helpers), we were encouraged to make the most of attending the conference. The tasks we were given, for example handling microphones during Q&A sessions or reminding people of talks that would start shortly, only enhanced the conference experience and meeting people. We had a very cool and varied group of angels, coming from a range of different backgrounds, which is always a refreshing experience.
 
 Talks-wise, unsurprisingly the one that made the biggest impression on me was the "State of the Net" by [Mikko Hypponen](https://mikko.hypponen.com/). The talk was beginner-friendly and a great starting point to start exploring cyber security on an introductory level.
 
-[caption id="attachment_292" align="aligncenter" width="464"]![13267955_1269603093051392_952435656259229834_n](https://kieczkowska.files.wordpress.com/2016/06/13267955_1269603093051392_952435656259229834_n.jpg) Mikko Hypponen speaking, photo credits: [CONFidence](https://www.facebook.com/confidence.conference/?fref=ts)[/caption]
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2016/06/13267955_1269603093051392_952435656259229834_n.jpg"><br>Mikko Hypponen speaking, photo credits: [CONFidence](https://www.facebook.com/confidence.conference/?fref=ts)</p>
 
 First thing after the conference, I found and watched all Mikko's TED talks:
-
-
 
 	
   * ["Fighting viruses, defending the net"](https://www.ted.com/talks/mikko_hypponen_fighting_viruses_defending_the_net) - a comprehensive overview about various aspects of malware: the infrastructure, a bit of history, etc.
@@ -41,7 +39,7 @@ First thing after the conference, I found and watched all Mikko's TED talks:
 
 Mikko also published a whitepaper on The Dukes, who are "a well-resourced, highly dedicated and organized cyberespionage group". The paper provides an overview of their activities as well as accessibly described technical details of the tools created by them. It's definitely worth reading, or at least skimming through, even if not everything in the paper is understandable. You can find it here: ["The Dukes. 7 years of Russian cyberespionage"](https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf)
 
-"Niebezpieczni prawnicy" (English: "Dangerous lawyers"), given by [Piotr Konieczny](https://twitter.com/konieczny?lang=en) (you can hear him introduce himself and his company [here](https://www.youtube.com/watch?v=HNYYUXy4vO0)), funnily portrayed where security specialists meet the lawyers. If I ever see the talk somewhere online, I will definitely link it here as it's both informative and entertaining, and provides a good insight in what a security expert job encompasses, especially for such newbies as myself. What's also worth mentioning, Piotr is the founder of [Niebezpiecznik.pl](https://niebezpiecznik.pl/), a must-read blog about cyber security for all Polish speakers.
+"Niebezpieczni prawnicy" (English: "Dangerous lawyers"), given by [Piotr Konieczny](https://twitter.com/konieczny?lang=en) (you can hear him introduce himself and his company [here](https://www.youtube.com/watch?v=HNYYUXy4vO0)), funnily portrayed where security specialists meet the lawyers. If I ever see the talk somewhere online, I will definitely link it here as it's both informative and entertaining, and provides a good insight in what a security expert job encompasses, especially for such newbies as myself.
 
 EDIT: Actually, the slides of all talks from this conference were uploaded online. You can find them **[here](http://www.slideshare.net/proidea_conferences/clipboards/confidence-2016)**.
 
