@@ -15,59 +15,64 @@ Summer 2017 marks a whole year I’ve been part of the ENUSEC committee as Secre
 
 We spent countless hours messing around in C27...
 
-![a5](https://kieczkowska.files.wordpress.com/2017/07/a5.jpg)
+<p align="center">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a5.jpg">
 
-![2](https://kieczkowska.files.wordpress.com/2017/07/2.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/2.jpg">
 
-![17796461_1152369874892194_8879828979283537105_n](https://kieczkowska.files.wordpress.com/2017/07/17796461_1152369874892194_8879828979283537105_n.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/17796461_1152369874892194_8879828979283537105_n.jpg">
 
-
+</p>
 
 ... went to a bunch of great events and conferences, such as:
 
-
-
-[Black Hat](https://www.blackhat.com/eu-16/)
-![10](https://kieczkowska.files.wordpress.com/2017/07/10.jpg)
+<p align="center">
+[Black Hat](https://www.blackhat.com/eu-16/)<br>
+<img src="https://kieczkowska.files.wordpress.com/2017/07/10.jpg">
 
 [ScotSecure](http://www.scot-secure.com/)
-![6scsec](https://kieczkowska.files.wordpress.com/2017/07/6scsec.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/6scsec.jpg">
 
 [Le Tour Du Hack](https://www.eventbrite.co.uk/e/enusec-presents-le-tour-du-hack-tickets-32299538790#)
-![a5 (1)](https://kieczkowska.files.wordpress.com/2017/07/a5-1.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a5-1.jpg">
 
-![a2](https://kieczkowska.files.wordpress.com/2017/07/a2.jpg)(you can check out our ex President's post about this event [here](https://stmerry.org/posts/enusec-le-tour-du-hack-2017) as well as my little write up of one of the CTF challenges - [here)](https://kieczkowska.wordpress.com/2017/04/12/426/)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a2.jpg">
+You can check out our ex President's post about this event <a href="https://stmerry.org/posts/enusec-le-tour-du-hack-2017">here</a> as well as my little write up of one of the CTF challenges - <a href="https://kieczkowska.wordpress.com/2017/04/12/426/">here</a>.
 
 [Sigint](https://twitter.com/siginthq)'s CTFs
-![7](https://kieczkowska.files.wordpress.com/2017/07/7.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/7.jpg">
 
-![11](https://kieczkowska.files.wordpress.com/2017/07/11.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/11.jpg">
 
 [BSides Edinburgh](https://www.bsidesedinburgh.org.uk/)
 
-![a1](https://kieczkowska.files.wordpress.com/2017/07/a1.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a1.jpg">
 
-![5](https://kieczkowska.files.wordpress.com/2017/07/5.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/5.jpg">
 
 [CONFidence](http://2017.confidence.org.pl/)
-![19961263_1675610512450646_3518126590216503333_n](https://kieczkowska.files.wordpress.com/2017/07/19961263_1675610512450646_3518126590216503333_n.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/19961263_1675610512450646_3518126590216503333_n.jpg">
 
 [Cyber Insight Camp by Cyber Challenge UK](https://www.cybersecuritychallenge.org.uk/)
-![3](https://kieczkowska.files.wordpress.com/2017/07/3.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/3.jpg">
 
 [SteelCon](https://www.steelcon.info/)
-![a3 (1)](https://kieczkowska.files.wordpress.com/2017/07/a3-1.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/a3-1.jpg">
 
 [2600 Edinburgh](https://2600edinburgh.org/)
-![1](https://kieczkowska.files.wordpress.com/2017/07/1.jpg)
+<img src="https://kieczkowska.files.wordpress.com/2017/07/1.jpg">
+
+</p>
 
 As these are visibly tiring and no fun at all, we do other things for pleasure, such as...
 
 ...climbing stuff...
-![4](https://kieczkowska.files.wordpress.com/2017/07/4.jpg)
+<p align="center">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/4.jpg"> </p>
 
 ...escape rooms...
-![8](https://kieczkowska.files.wordpress.com/2017/07/8.jpg)
+<p align="center">
+<img src="https://kieczkowska.files.wordpress.com/2017/07/8.jpg"> </p>
 
 ...Christmas celebrations...
 
