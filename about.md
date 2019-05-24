@@ -28,6 +28,8 @@ as well as [PyCon PL](https://pl.pycon.org/){:target="_blank"},
 [PyCon US](https://us.pycon.org/2019/){:target="_blank"}
 and [PyWaw Summit](http://summit.pywaw.org/2015/){:target="_blank"}.
 
+Check out the blog posts at my old site [here](https://kieczkowska.wordpress.com/).
+
 <br>
 
 🏅 Bragging corner
