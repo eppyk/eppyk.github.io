@@ -5,7 +5,7 @@ date: 2015-06-10 18:22:35+00:00
 layout: post
 link: https://kieczkowska.wordpress.com/2015/06/10/cto-chief-technical-officer/
 slug: cto-chief-technical-officer
-title: CTO (Chief Technical Officer)
+title: Techie Interview: CTO (Chief Technical Officer)
 wordpress_id: 6
 categories: interviews
 tags:
@@ -20,7 +20,7 @@ tags:
 
 Today a new series starts on my blog. From now on, every Wednesday I’ll publish an interview with an amazing tech person, asking about their job title and what it really means. As a novice programmer, I always wondered what responsibilities and roles certain jobs included, and it was difficult sometimes to make sense of all these different positions. That’s why I decided to ask the techies themselves to shed some light on what it is they are exactly doing.
 
-<blockquote>Enjoy the very first interview with **Russell Keith-Magee**, Django Core Developer. I had the pleasure to meet Russell when he volunteered to coach at Django Girls Amsterdam. Find him on Twitter: [@freakboy3742](https://twitter.com/freakboy3742).</blockquote>
+##### Enjoy the very first interview with **Russell Keith-Magee**, Django Core Developer. I had the pleasure to meet Russell when he volunteered to coach at Django Girls Amsterdam. Find him on Twitter: [@freakboy3742](https://twitter.com/freakboy3742).
 
 #### What’s your job title?
 
