@@ -64,7 +64,7 @@ You can read the article [here](https://modelviewculture.com/pieces/how-the-glor
 
 ### Django Girls Krakow
 
-<p align="center"><img src="https://kieczkowska.files.wordpress.com/2016/01/11952037_732634123528727_8192323533552205588_n.jpg"><br> Django Girls Krakow, 2nd edition. Photo by [Michal Baluka](https://www.facebook.com/Ba%C5%82uka-FX-1415633491982936/?fref=ts)</p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2016/01/11952037_732634123528727_8192323533552205588_n.jpg"><br> Django Girls Krakow, 2nd edition. Photo by <a href="https://www.facebook.com/Ba%C5%82uka-FX-1415633491982936/?fref=ts">Michal Baluka</a></p>
 
 This particular event deserves special recognition in this review, because, <insert fanfares> I was the co-organiser of it!
 
