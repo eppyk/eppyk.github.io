@@ -7,8 +7,7 @@ link: https://kieczkowska.wordpress.com/2016/01/08/2015-in-review/
 slug: 2015-in-review
 title: 2015 in review
 wordpress_id: 32
-categories:
-- miscellaneous
+categories: yearinreview
 post_format:
 - Aside
 ---
