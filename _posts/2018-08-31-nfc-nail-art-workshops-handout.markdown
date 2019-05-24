@@ -12,9 +12,9 @@ mentions:
 - kieczkowska
 ---
 
-#### Please read before starting your nail art adventure!
+### Please read before starting your nail art adventure!
 	
-  1. Overall tips
+#### Overall tips
 
 - Make sure none of the gel nail polish touches your cuticles or finger before you cure it – if it does, it will make it last less time. If you see the polish touching the skin, you can remove excess with the wooden stick provided.
 	
@@ -23,14 +23,14 @@ mentions:
 - If needed, you can file the fake nails before gluing them on to make them match your nail shape better.
 
 	
-  2. Just before you paint your nails or glue on fake ones:
+#### Just before you paint your nails or glue on fake ones
 
 - Use wooden sticks provided to push back your cuticles to maximise the working area on your nail.
 
 - Use cleaner and dust-free wadding swabs to cleanse your nails and finger tops from any oils. CAUTION: the cleaner is mostly alcohol, so if you have any cuts / pulled cuticles it can sting!
 
 	
-  3. Let’s get painting:
+#### Let’s get painting
 
 - If you skipped number 2, do these two things now : - )
 	
