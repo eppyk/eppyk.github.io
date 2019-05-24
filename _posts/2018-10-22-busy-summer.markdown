@@ -26,7 +26,7 @@ As I recently learned, I got nominated for the [Best Cyber Talent in Scottish Cy
 #### AWS Certified Cloud Practitioner
 
 
-<p align="center">[![Telerik.Web.UI.WebResource](https://kieczkowska.files.wordpress.com/2018/10/telerik-web-ui-webresource.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2018-08-14&ci=AWS00574728)</p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2018/10/telerik-web-ui-webresource.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2018-08-14&ci=AWS00574728"></p>
 
 Building on the knowledge I have acquired while working on AWS projects at Zonefox, I realised I covered the syllabus for the first AWS certification, so I didn't hesitate long and took the exam. This has left me with this beautiful shiny badge :)
 
@@ -42,15 +42,15 @@ After completing an online quiz based on a digital forensic analysis to be compl
 #### EMF Camp 2018
 
 
-<p align="center">![8d98c59f-71a4-4302-953f-e9994e2deec4](https://kieczkowska.files.wordpress.com/2018/10/8d98c59f-71a4-4302-953f-e9994e2deec4.jpg?w=300)<br>The inclusive magic of EM</p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2018/10/8d98c59f-71a4-4302-953f-e9994e2deec4.jpg?w=300"><br>The inclusive magic of EM</p>
 
 Not strictly connected to anything else I'm doing in my tech life, but I was lucky enough to get to go to EMF Camp this year - a magical biennial jamboree, bringing together makers, hackers and all kinds of artsy and techy people from all over the UK and Europe. Just take a look...
 
-<p align="center">![emfcollage](https://kieczkowska.files.wordpress.com/2018/10/emfcollage.jpg?w=300)</p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2018/10/emfcollage.jpg?w=300"></p>
 
 Apart from participating in all the amazingness, I was giving a workshop on NFC nail art (in the white t-shirt in the middle of that second photo, that's me!). The number of people who showed up surpassed even the most optimistic of my expectations, and it soon became clear I will have to turn some people away, unfortunately. Anyway, I think everyone who did get to do their NFC manicure left quite happy with their blinking nails.
 
-<p align="center">![emfnailcollage](https://kieczkowska.files.wordpress.com/2018/10/emfnailcollage.jpg?w=300)</p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2018/10/emfnailcollage.jpg?w=300"></p>
 
 
 #### Honours project
@@ -62,7 +62,7 @@ With the beginning of a new academic year, my honours project work has commenced
 #### Edinburgh International Science Festival in 🇦🇪
 
 
-<p align="center">![Screen Shot 2018-10-21 at 22.17.47](https://kieczkowska.files.wordpress.com/2018/10/screen-shot-2018-10-21-at-22-17-47.png?w=300)<br>Team photo at the CyberQuest venue</p>
+<p align="center"><img src="https://kieczkowska.files.wordpress.com/2018/10/screen-shot-2018-10-21-at-22-17-47.png?w=300"><br>Team photo at the CyberQuest venue</p>
 
 For the second time this year, at the beginning of October I travelled to the UAE to deliver workshops for the Edinburgh International Science Festival in Dubai. This time I had the chance to do artificial intelligence, blockchain and car hacking, which, I have to say,  these aren't topics I have much to do with on a daily basis. That's why it was a great experience to get to learn more about them first and then share the knowledge with the public in such a different setting than usual - sunny Dubai.
 
