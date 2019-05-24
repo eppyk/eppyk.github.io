@@ -1,0 +1,160 @@
+---
+author: kieczkowska
+comments: true
+date: 2017-04-12 16:07:27+00:00
+layout: post
+link: https://kieczkowska.wordpress.com/2017/04/12/426/
+slug: '426'
+title: ENUSec CTF Lost & Found challenges write up
+wordpress_id: 426
+---
+
+challenge author: the one and only President of ENUSec Peter Aaby
+
+In this challenge, you’re faced with a file called usb.dump.E01. We know that E01 is the Encase image format. What if we don’t know that, you ask?
+
+Well:
+
+![Screen Shot 2017-04-12 at 14.05.51](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-14-05-51.png)
+
+Encase Forensic is a digital forensics tool that allows, among other things, disc imaging. We therefore have every right to suspect this is a disc image.
+
+At this point it’s imperative to mention we’ll be using commands from the Sleuth Kit ([https://www.sleuthkit.org/](https://www.sleuthkit.org/)). It’s automatically installed in Kali and Caine Linux, if you happen to work on one of these, if not, go here: [https://www.sleuthkit.org/sleuthkit/download.php](https://www.sleuthkit.org/sleuthkit/download.php).
+
+If you can choose, choose Kali or Caine.
+
+
+## Step 1: mmls
+
+
+The first thing we want to do is to take a peek inside the mysterious file we have. For that we use the mmls command. It allows us to view the partition table which reflects the layout of the partitions existing in the disc image we have. 
+
+`![Screen Shot 2017-04-12 at 22.11.56](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-11-56.png)
+`
+How do we interpret this output?
+
+There is only one recognized partition - Windows 95 FAT32. We do have two unallocated areas, though; and as this is a CTF challenge and we’re looking for something that’s supposed to be hidden, we wanna look at those, too. The first one is only 2 sectors long (2 * 512 bytes = 1024bytes = 1kilobyte), so it seems too small to hold something interesting. That’s why we’ll be investigating the Win95 FAT32 partition and the unallocated space that follows it.
+
+Let’s look at Win95 FAT32 first.`
+`
+
+![Screen Shot 2017-04-12 at 22.12.44.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-12-44.png)What does the mmls command output tell us about that partition? We can see it starts at offset 2 and ends at offset 1050623. Therefore, it’s length is 1050622 sectors (1050623 - 2 + 1; remember this is computers, not mathematics ;)). 
+
+Each sector is 512 bytes, as we know from the top of the mmls output, so we can easily convert the offsets to bytes if we ever need that. But let’s stick to sectors for now.
+
+
+## Step 2: fls
+
+
+The next step is to use the Sleuth Kit’s fls command. Its output displays files and directories within a specified partition in a disk image. We need to let it know which partition it should look at, though; for this we can use the offsets we found earlier by running mmls. Since we are to start with Win95 FAT32, we will use its start offset in sectors (which is 2):
+
+![Screen Shot 2017-04-12 at 22.14.50](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-14-50.png)
+
+At this point it becomes obvious to us that the challenge was created by a real Mr Robot obsessed geek. I know the creator so I know how painfully true this is, but anyway it is a pretty straightforward reference to the geeky/nerdy culture so it doesn’t take an Einstein to get the hint. The filename is like a little wink-wink, which is pretty common in CTF challenges, so it kind of signifies we’re on the right track. 
+
+It looks like we have a .jpg file here. It might not be a .jpg file, of course, but we are allowed to be hopeful, so let’s try to extract it from the disc image. To do that we require it’s inode (index node) number, which we can also find in the fls output:
+
+![Screen Shot 2017-04-12 at 22.15.39](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-15-39.png)
+
+The number we’re looking for is therefore 216582.
+
+
+## Step 3: icat
+
+
+The icat command quite literally “outputs the contents of a file based on its inode number”. In this case, as I mentioned earlier we’re feeling hopeful, so we’ll optimistically direct the output of that command straight to a .jpg file and hope it’s gonna work.
+
+![Screen Shot 2017-04-12 at 22.16.34.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-16-34.png)
+
+
+## Step 4: verify what we’ve got
+
+
+Go to your working directory (mine was Desktop; you can find yours by running the pwd command and navigating there) and open the file:
+
+![f.jpg](https://kieczkowska.files.wordpress.com/2017/04/f.jpg)
+
+Voila! Here we are. We extracted the image. But what now? It’s just a jpg, there’s no immediately visible flag or anything. #trulypuzzled
+
+A couple of possible paths:
+
+
+
+	
+  * icat
+![Screen Shot 2017-04-12 at 22.19.58](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-19-58.png)Analyse the output of the icat command. Used in conjunction with xxd allows you to view the file in hex on the left and in human on the right. ;) Above you see just a part of the output, as it’s very long, but you should look through it. If you’re overwhelmed by its volume, pipe it to less to see just a bit at a time and use enter to move down:
+![Screen Shot 2017-04-12 at 22.23.33.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-23-33.png)
+
+	
+  * strings
+Play around with the strings command, specifying different lengths of desired strings to be found. You soon will find out that it takes you nowhere. Anyway, it’s a way worth trying out.
+![Screen Shot 2017-04-12 at 22.25.41.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-25-41.png)
+![Screen Shot 2017-04-12 at 22.26.01.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-26-01.png)
+
+
+	
+  * steghide
+When you think about hiding or retrieving something from a .jpg file, the first thing that comes to mind is steganography. Steganography is hiding data in places you wouldn’t think of looking in. A much more elegant explanation of the term can be found here: http://searchsecurity.techtarget.com/definition/steganography 
+
+The command to extract hidden data using steghide is:
+![Screen Shot 2017-04-12 at 22.27.31](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-27-31.png)It requires a passphrase without which the extraction is not possible. We don’t really have anything that could potentially be put in there, but you can try out a couple of obvious choices like ‘enusec’ or ‘ctf’.
+
+For now there’s nothing more for us to do with pic.jpg, so let’s move on.
+
+Let’s look at the second thing, slightly more exciting as we don’t really know what it is. Let’s recall the mmls command output from step 1:
+
+![Screen Shot 2017-04-12 at 22.11.56](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-11-56.png)
+
+Now let’s fls using the unallocated space offset 1050624:
+![Screen Shot 2017-04-12 at 22.29.27](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-29-27.png)
+
+
+Hmm! A .jpg file again. Let’s be hopeful again:
+![Screen Shot 2017-04-12 at 22.30.06.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-30-06.png)
+
+
+And open what we got:
+
+![Screen Shot 2017-04-12 at 22.32.22.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-32-22.png)
+YAY! We’ve found the answer to one of the challenges. And we didn’t even have to do any advanced data carving ;)) (wink wink Peter)
+
+Whoami.jpg isn’t the only interesting thing hiding in that unallocated space. A file called DontDeleteMe pretty bluntly announces its importance, so let’s give in and pay some attention to it.
+
+Let’s check what actually is in it:
+
+
+![Screen Shot 2017-04-12 at 22.33.40](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-33-40.png)
+Fsociety… Hm… Yes! The first .jpg we extracted had ‘fsociety’ in its name. The thing we could be (probably) lacking to decode it was a steghide passphrase.
+
+Now try decoding the .jpg with the title string of the file, “DontDeleteMe”:
+
+![Screen Shot 2017-04-12 at 22.34.44.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-34-44.png)
+Doesn’t work. OK, try again with what’s in DontDeleteMe. It’s quite a long sentence, so we don’t want to manually retype it as the passphrase is hidden when entered so it’s very easy to make a mistake. Let’s just add the -p flag which allows us to specify a file from which the passphrase will be taken.
+
+![Screen Shot 2017-04-12 at 22.34.53.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-34-53.png)
+Oh yes, that’s a good sign! Let’s look into hiddendata.txt:
+![Screen Shot 2017-04-12 at 22.34.59.png](https://kieczkowska.files.wordpress.com/2017/04/screen-shot-2017-04-12-at-22-34-59.png)
+
+Aaaand done. Now you can pour yourself a glass of wine and watch Mr Robot feeling like a forensic pro that you are. :)
+
+sources:
+
+	
+    * [http://www.forensicsware.com/blog/e01-file-format.html](http://www.forensicsware.com/blog/e01-file-format.html)
+
+	
+    * [https://www.sleuthkit.org/](https://www.sleuthkit.org/)
+
+	
+    * [http://www.sleuthkit.org/sleuthkit/man](http://www.sleuthkit.org/sleuthkit/man)
+
+	
+    * [http://steghide.sourceforge.net/](http://steghide.sourceforge.net/)
+
+	
+    * [http://searchsecurity.techtarget.com/definition/steganography](http://searchsecurity.techtarget.com/definition/steganography)
+
+
+
+
+
