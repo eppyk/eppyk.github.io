@@ -17,7 +17,9 @@ October is slowly fading away and with it any last rays of sunshine in Scotland,
 
 I've completed a 10-week internship at [Zonefox](https://www.zonefox.com/), an endpoint monitoring, insider threat mitigation software company. It was an intense time filled with all kinds of work from front end development to AWS traffic monitoring. It's been amazing to see all the inner workings of a medium-sized company, the workflow and internal structures, all of the things I have never had the opportunity sato experience before as my only cyber security related work experience was a scientific research internship at my university the summer before.
 
-![IMG_2222](https://kieczkowska.files.wordpress.com/2018/10/img_2222.jpg?w=225#center) Morning coffee views from Zonefox HQ
+{: style="text-align:center"}
+![IMG_2222](https://kieczkowska.files.wordpress.com/2018/10/img_2222.jpg?w=225) 
+Morning coffee views from Zonefox HQ
 
 As I recently learned, I got nominated for the [Best Cyber Talent in Scottish Cyber Awards ](https://www.scottishcyberawards.co.uk/apply/best-new-cyber-talent/)for my work at Zonefox which I'm incredibly grateful for. I can't wait for to see the team again for a fancy dinner at the awards gala in a couple of weeks.
 
