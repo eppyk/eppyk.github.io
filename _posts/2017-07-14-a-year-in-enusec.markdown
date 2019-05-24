@@ -6,6 +6,7 @@ layout: post
 link: https://kieczkowska.wordpress.com/2017/07/14/a-year-in-enusec/
 slug: a-year-in-enusec
 title: A year in ENUSEC
+categories: yearinreview
 wordpress_id: 463
 ---
 
