@@ -18,7 +18,7 @@ tags:
 
 #### Stuck with the DjangoGirls tutorial? Your coach is busy at the moment? You’re doing the tutorial by yourself? Check out the most popular reasons why the blog isn’t working.
 
-<blockquote>Don’t know what DjangoGirls is? Visit [djangogirls.org](http://djangogirls.org/) for more information, [tutorial.djangogirls.org](http://tutorial.djangogirls.org/) if you’re ready to build your first working web app now!</blockquote>
+Don’t know what DjangoGirls is? Visit [djangogirls.org](http://djangogirls.org/) for more information, [tutorial.djangogirls.org](http://tutorial.djangogirls.org/) if you’re ready to build your first working web app now!
 
 Basing on years of my biased experience as a DjangoGirls coach (joking, it’s not been even a year since DjangoGirls started, but the phrase sounds cool, doesn’t it?) I put together a list of the most popular reasons why the blog you’re creating suddenly doesn’t work anymore. 
 
