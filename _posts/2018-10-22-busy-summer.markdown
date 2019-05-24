@@ -6,6 +6,7 @@ layout: post
 link: https://kieczkowska.wordpress.com/2018/10/22/busy-summer/
 slug: busy-summer
 title: Busy summer
+categories: update
 wordpress_id: 587
 ---
 
