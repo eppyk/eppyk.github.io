@@ -6,6 +6,7 @@ layout: post
 link: https://kieczkowska.wordpress.com/2017/04/12/426/
 slug: '426'
 title: ENUSec CTF Lost & Found challenges write up
+categories: writeups
 wordpress_id: 426
 ---
 
