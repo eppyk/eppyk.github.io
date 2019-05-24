@@ -28,39 +28,38 @@ We spent countless hours messing around in C27...
 ... went to a bunch of great events and conferences, such as:
 
 <p align="center">
-[Black Hat](https://www.blackhat.com/eu-16/)<br>
+
+BlackHat
 <img src="https://kieczkowska.files.wordpress.com/2017/07/10.jpg">
 
-[ScotSecure](http://www.scot-secure.com/)
+ScotSecure
 <img src="https://kieczkowska.files.wordpress.com/2017/07/6scsec.jpg">
 
-[Le Tour Du Hack](https://www.eventbrite.co.uk/e/enusec-presents-le-tour-du-hack-tickets-32299538790#)
+Le Tour Du Hack
 <img src="https://kieczkowska.files.wordpress.com/2017/07/a5-1.jpg">
-
 <img src="https://kieczkowska.files.wordpress.com/2017/07/a2.jpg">
 You can check out our ex President's post about this event <a href="https://stmerry.org/posts/enusec-le-tour-du-hack-2017">here</a> as well as my little write up of one of the CTF challenges - <a href="https://kieczkowska.works/2017/04/12/426.html">here</a>.
 
-[Sigint](https://twitter.com/siginthq)'s CTFs
+Sigint's CTFs
 <img src="https://kieczkowska.files.wordpress.com/2017/07/7.jpg">
 
 <img src="https://kieczkowska.files.wordpress.com/2017/07/11.jpg">
 
-[BSides Edinburgh](https://www.bsidesedinburgh.org.uk/)
-
+BSides Edinburgh
 <img src="https://kieczkowska.files.wordpress.com/2017/07/a1.jpg">
 
 <img src="https://kieczkowska.files.wordpress.com/2017/07/5.jpg">
 
-[CONFidence](http://2017.confidence.org.pl/)
+CONFidence
 <img src="https://kieczkowska.files.wordpress.com/2017/07/19961263_1675610512450646_3518126590216503333_n.jpg">
 
-[Cyber Insight Camp by Cyber Challenge UK](https://www.cybersecuritychallenge.org.uk/)
+Cyber Insight Camp by Cyber Challenge UK
 <img src="https://kieczkowska.files.wordpress.com/2017/07/3.jpg">
 
-[SteelCon](https://www.steelcon.info/)
+SteelCon
 <img src="https://kieczkowska.files.wordpress.com/2017/07/a3-1.jpg">
 
-[2600 Edinburgh](https://2600edinburgh.org/)
+2600 Edinburgh
 <img src="https://kieczkowska.files.wordpress.com/2017/07/1.jpg">
 
 </p>
